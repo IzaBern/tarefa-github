@@ -1,0 +1,14 @@
+html {
+    background-color: antiquewhite;
+    color: #000066;
+}
+
+p, a {
+    color:#000011;
+}
+
+header {
+    height: 220 px;
+    align-items: center;
+    justify-content: center;
+}
